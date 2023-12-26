@@ -1,0 +1,12 @@
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\bin\Debug\NegocioPersonas.dll
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\bin\Debug\NegocioPersonas.pdb
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\bin\Debug\DataPersonas.dll
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\bin\Debug\EntityFramework.dll
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\bin\Debug\DataPersonas.pdb
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\bin\Debug\DataPersonas.dll.config
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\bin\Debug\EntityFramework.xml
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\obj\Debug\NegocioPersonas.csproj.AssemblyReference.cache
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\obj\Debug\NegocioPersonas.csproj.CoreCompileInputs.cache
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\obj\Debug\NegocioPersonas.csproj.CopyComplete
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\obj\Debug\NegocioPersonas.dll
+C:\Users\thann\source\repos\SolServiceWeb\NegocioPersonas\obj\Debug\NegocioPersonas.pdb
